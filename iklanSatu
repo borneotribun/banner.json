@@ -2,9 +2,9 @@
 {
   "responseData": {
     "feed": {
-      "imageBannersatu": "http://feeds.feedburner.com/petanikode",
-      "imageBannerDua": "Petani Kode",
-      "imageBannerTiga": "http://www.petanikode.com/",
+      "imageBannersatu": "sekadau.com/wp-content/uploads/2019/09/BANNER-DPRD-SEKADAU-2.jpg",
+      "imageBannerDua": "https://professional.mit.edu/sites/default/files/images/MITPE-SP-UPTI-website-banner-720x200.png",
+      "imageBannerTiga": "https://www.thebostoncalendar.com/system/events/photos/000/293/848/large/MITPE-RadicalInnovation-website-banner-720x200.png",
       "imageBannerEmpat": "Muhar Dian",
       "imageBannerLima": "Blog Programmer Pengguna Linux",
       "type": "atom10",
